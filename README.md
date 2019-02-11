@@ -1,4 +1,4 @@
-# BooksNow
+# NewestBookReleases
 
 Welcome to this CLI. It has been created to output the newest book releases by genre. The information has been scraped from Barnes & Noble websites and is designed to be more straight forward and easier to access.
 
